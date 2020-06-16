@@ -1,7 +1,7 @@
 # NLP-in-Tensorflow
-* 3. Course work for NLP (tokenization and sequence)
-- Excercise 1
-- Excercise 2
+* Course work for NLP (tokenization and sequence)
+i Excercise 1
+ii Excercise 2
 
 * Home Work - 1: 
 Gutenberg Corpus
