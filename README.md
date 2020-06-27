@@ -1,7 +1,7 @@
 # Natural Language Processing
 
 [Mini Project -1 ](* Mini Project - 1)
-[Mini Project -2 ](* Mini Project - 2)
+[Mini Project -2 ](https://github.com/gaurav2139/NLP-in-Tensorflow/tree/master/Mini%20Project%20-2)
 
 * Mini Project - 2
   - Count_vecorization.ipynb
