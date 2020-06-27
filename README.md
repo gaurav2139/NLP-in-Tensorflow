@@ -1,5 +1,8 @@
 # Natural Language Processing
 
+[Mini Project -1 ](* Mini Project - 1)
+[Mini Project -2 ](* Mini Project - 2)
+
 * Mini Project - 2
   - Count_vecorization.ipynb
     - This file consists of Sentimental Analysis (also includes embedding and vertorizatiotion) done in the lecuture 
