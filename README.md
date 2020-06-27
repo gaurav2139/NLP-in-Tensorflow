@@ -24,9 +24,9 @@
 
 * Mini Project - 1
   - hw1.py
-    - asd
+    - NLP tasks such as Stemming (used many stemming methods) and Lemmatization are done on the Gutenberg corpus
   - hw2.py
-    - asd
+    - Performed Stemming, Lemmatization and other NLP tasks from CMU dataset and also finding the COSINE similarity for the documents
   - POS_TAG.py
     - Parrts of speech tagging for the data and also how the acutal worklow works can be found in this file
   - course_3_week_1_exercise_question.py
