@@ -7,8 +7,6 @@
     - Mini Project done by Analysing data from the reviews of the customer that buy Amazon prodcuts
   - Regex_Chunk.ipynb
     - Using grammar rule and breaking the file data into chunks
-  - Task for Mini Project - 2
-    - asd
   - Stanford_NLP.ipynb
     - Performing NLP pipeline on regional lanugage, here in the document it's Hindi.
   - Task.ipynb
