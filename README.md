@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-## [Mini Project -1 ](https://github.com/gaurav2139/NLP-in-Tensorflow)
+## [Mini Project -1 ](https://github.com/gaurav2139/NLP-in-Tensorflow/tree/master/Mini%20Project%20-1)
 ## [Mini Project -2 ](https://github.com/gaurav2139/NLP-in-Tensorflow/tree/master/Mini%20Project%20-2)
 ### [LOR Chunks output](https://github.com/gaurav2139/NLP-in-Tensorflow/tree/master/Chunks_output)
 
