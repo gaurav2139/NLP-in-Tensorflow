@@ -31,7 +31,8 @@
     - Performed Stemming, Lemmatization and other NLP tasks from CMU dataset and also finding the COSINE similarity for the documents
   - POS_TAG.py
     - Parrts of speech tagging for the data and also how the acutal worklow works can be found in this file
-  - course_3_week_1_exercise_question.py
+  - NLTK.ipynb
+    - Stemming, Lemmatization and Tokenization
+  - Pract1.ipynb
     - Emebedding the data and performing vectorization, done using Keras API
-  - course_3_week_1_lesson_1.py
-    - Embedding the data
+  
